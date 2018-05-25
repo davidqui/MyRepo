@@ -1,0 +1,59 @@
+
+Conectado a: Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+Exportación realizada en el juego de caracteres WE8MSWIN1252 y el juego de caracteres NCHAR AL16UTF16
+
+Exportando los usuarios especificados ...
+. exportando acciones y objetos de procedimiento pre-esquema
+. exportando nombres de biblioteca de funciones ajenas para el usuario UBIRED 
+. exportando sinónimos de tipo público
+. exportando sinónimos de tipo privado
+. exportando definiciones de tipos de objetos para el usuario UBIRED 
+Exportando los objetos de UBIRED  ...
+. exportando enlaces a la base de datos
+. exportando números de secuencia
+. exportando definiciones de cluster
+. exportando las tablas de UBIRED a través de la Ruta de Acceso Convencional ...
+. exportando la tabla                      ELEMENTOS
+                                                           11 filas exportadas
+. exportando la tabla                      EMPLEADOS
+                                                            0 filas exportadas
+. exportando la tabla                        ESTADOS
+                                                            7 filas exportadas
+. exportando la tabla                    FABRICANTES
+                                                            3 filas exportadas
+. exportando la tabla                     HISTOEMPLE
+                                                            0 filas exportadas
+. exportando la tabla                    HISTOPROVEE
+                                                            4 filas exportadas
+. exportando la tabla                    PRIORIDADES
+                                                            2 filas exportadas
+. exportando la tabla                    PRIVILEGIOS
+                                                            2 filas exportadas
+. exportando la tabla                      PRODUCTOS
+                                                            4 filas exportadas
+. exportando la tabla                    PROVEEDORES
+                                                            4 filas exportadas
+. exportando la tabla                TIPOS_INCIDENTE
+                                                            4 filas exportadas
+. exportando la tabla            TIPOS_MANTENIMIENTO
+                                                            2 filas exportadas
+. exportando la tabla                       USUARIOS
+                                                            2 filas exportadas
+. exportando sinónimos
+. exportando vistas
+. exportando procedimientos almacenados
+. exportando operadores
+. exportando restricciones de integridad referencial
+. exportando disparadores
+. exportando tipos de índice
+. exportando índices bitmap, funcionales y extensibles
+. exportando acciones de posttables
+. exportando vistas materializadas
+. exportando logs de instantáneas
+. exportando colas de trabajo
+. exportando grupos de refrescamiento y secundarios
+. exportando dimensiones
+. exportando acciones y objetos de procedimiento post-esquema
+. exportando estadísticas
+La exportación ha terminado correctamente y sin advertencias.

@@ -1,0 +1,35 @@
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\control_file.sql|General Purpose|All Control Files in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\cpu.sql|General Purpose|Top Sessions by CPU consumption
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\db.sql|General Purpose|Database Basic Info
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\directory.sql|General Purpose|All Directories in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\init.sql|General Purpose|Database INIT.ORA Info
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\io.sql|General Purpose|Top Tablespaces by IO consumption
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\io_wait.sql|General Purpose|Top IO Waits in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\lock.sql|General Purpose|Database Locks Being Held
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\profile.sql|General Purpose|All Profiles in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\rbs.sql|General Purpose|Database Rollback Segments
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\rbs_activity.sql|General Purpose|Rollback Segment Activity in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\rbs_off.sql|General Purpose|Alter All Rollback Segments Offline
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\rbs_on.sql|General Purpose|Alter All Rollback Segments Online
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\redo_log.sql|General Purpose|All Redo Logs in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\role.sql|General Purpose|All Roles in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\role_granted.sql|General Purpose|All Granted Roles in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\role_granted_role.sql|General Purpose|All Roles Granted to Roles in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\role_user.sql|General Purpose|All User Roles in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\role_user_granted.sql|General Purpose|All Granted User Roles in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\role_user_granted_role.sql|General Purpose|All User Roles Granted to Roles in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\session_events.sql|General Purpose|Session Events
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\system_events.sql|General Purpose|System Events
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\sga.sql|General Purpose|SGA Memory Map (overall)
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\throw_extent.sql|General Purpose|Segments that cannot extend
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\tspc.sql|General Purpose|Tablespace Basic Information
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\tspc_coal.sql|General Purpose|Alter All Tablespaces Coalesce
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\tspc_default.sql|General Purpose|Default Tablespace User Counts
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\tspc_off.sql|General Purpose|Alter All Tablespaces Offline
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\tspc_on.sql|General Purpose|Alter All Tablespaces Online
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\users.sql|General Purpose|All Users in Database
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\version.sql|Basic Information|Database Instance and Version Info
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\what.sql|General Purpose|Tablespace Object Breakdown Information
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\when.sql|Basic Information|Current Date and Time
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\who.sql|General Purpose|Database Sessions Active
+C:\Program Files\Quest Software\Toad for Oracle\ScriptMgr\DBA\whoami.sql|Basic Information|User Connected As

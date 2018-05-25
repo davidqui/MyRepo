@@ -1,0 +1,5 @@
+FILE="exp_ubired.dmp"
+LOG="exp_exp_ubired.log"
+OWNER=('UBIRED')
+BUFFER=10000
+FEEDBACK=1000
